@@ -4,7 +4,7 @@ After learning programming games in a few different languages (Java, C++, Javasc
 I love to convert small ideas into games and always learning new things while doing it!<br />
 In my free time mostly games, but I also do Desktop, Web & App programming<br />
 <h2>🌱 My Projects 🌱</h2> 
-I’m currently learning Vulkan and how to write an engine. In the last few years I worked as a professional C# developer and Unity dev.<br />
+I’m currently learning Vulkan and how to write an engine. In the last few years I worked as a professional C# developer and Unity game developer.<br />
 <h2>📫 Contact 📫</h2>
 <a href="https://dasPanjo.com/">Website</a><br />
 <a href="https://twitter.com/DasPanjo"> Twitter</a><br />
